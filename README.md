@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bann.jpeg" alt="Banner Image" width="100%" />
+  <img src="istockphoto-488715410-612x612.jpg" alt="Banner Image" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Shreya Sharma</h1>
 <h3 align="center">A passionate Fullstack developer from India.</h3>
