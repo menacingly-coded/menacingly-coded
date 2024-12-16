@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyaog" alt="shreyaog" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/shreya0987edu" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/shreya0987edu?logo=twitter&style=for-the-badge" alt="https://x.com/shreya0987edu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shreya0987edu" target="blank"><img src="https://img.shields.io/twitter/follow/shreya0987edu?logo=twitter&style=for-the-badge" alt="shreya0987edu" /></a> </p>
 
 - 🔭 I’m currently working on **sharping my skills with the tech stacks**
 
@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/shreya0987edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Shreya0987Edu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreya-sharma-412256211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreya-sharma-412256211/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/shreya30sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shreya30sharma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/shreya30sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shreya30sharma/" height="30" width="40" /></a>
+<a href="https://twitter.com/shreya0987edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreya0987edu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shreya-sharma-412256211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-sharma-412256211" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shreya30sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shreya30sharma" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shreya30sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreya30sharma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
