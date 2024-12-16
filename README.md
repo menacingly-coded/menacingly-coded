@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://x.com/shreya0987edu" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/shreya0987edu?logo=twitter&style=for-the-badge" alt="https://x.com/shreya0987edu" /></a> </p>
 
-- 🔭 I’m currently working on **Sharping my skills and tech stack**
+- 🔭 I’m currently working on **sharping my skills with the tech stacks**
 
 - 🌱 I’m currently learning **web 3 concepts.**
 
