@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menacingly-coded&label=Profile%20views&color=0e75b6&style=flat" alt="menacingly-coded" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyaog" alt="shreyaog" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menacingly-coded" alt="menacingly-coded" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shreya0987edu" target="blank"><img src="https://img.shields.io/twitter/follow/shreya0987edu?logo=twitter&style=for-the-badge" alt="shreya0987edu" /></a> </p>
 
